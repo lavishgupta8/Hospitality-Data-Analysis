@@ -66,7 +66,7 @@ Delhi had the best occupancy rate (61.51%), while Bangalore was the lowest (56.3
 Occupancy was significantly higher on weekends (72.34%) compared to weekdays (50.88%).
 
 
-## Reco
+## Recommendations
 
 Prioritize Delhi and Presidential rooms to maintain strong occupancy levels.
 
